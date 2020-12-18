@@ -8,4 +8,4 @@ Messing around here, don't mind me
 
 <canvas id="c" />
 
-<!--<script src="{{ base.url | prepend: site.url }}/spideygl/assets/js/deferred_renderer.js"></script>-->
+<script src="{{ base.url | prepend: site.url }}/spideygl/assets/js/deferred_renderer.js"></script>
