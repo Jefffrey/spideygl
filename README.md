@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <canvas id="c"></canvas>
 
-<script src="{{ base.url | prepend: site.url }}/assets/deferred_renderer.js"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/js/deferred_renderer.js"></script>
