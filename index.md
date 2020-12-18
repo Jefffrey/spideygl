@@ -1,9 +1,4 @@
----
-title: SpideyGL
-layout: default
-theme: jekyll-theme-slate
----
-## {{ page.title }}
+## SpideyGL
 
 Messing around here, don't mind me
 
