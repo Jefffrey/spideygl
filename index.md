@@ -1,3 +1,8 @@
+---
+layout: default
+title: Index Page
+nav_order: 1
+---
 ## SpideyGL
 
 Messing around here, don't mind me
@@ -6,4 +11,4 @@ Messing around here, don't mind me
 
 <canvas id="c" />
 
-<script src="{{ base.url | prepend: site.url }}/spideygl/assets/js/deferred_renderer.js"></script>
+<script src="assets/js/deferred_renderer.js"></script>
